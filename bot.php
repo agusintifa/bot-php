@@ -14,7 +14,6 @@ require_once 'bot-proses.php';
 /* ----------------- MULAI LOOPING
     Jika tidak ada pesan masuk ditandai -
     Jika ada pesan masuk pada console ditandai +
-    credit faisal halim
 */
 
 // metode loong poling
